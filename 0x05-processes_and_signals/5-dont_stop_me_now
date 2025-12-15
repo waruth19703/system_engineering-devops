@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# week 07 part 5
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done

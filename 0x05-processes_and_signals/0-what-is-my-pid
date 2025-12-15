@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# describing what your Bash script does
+echo $$

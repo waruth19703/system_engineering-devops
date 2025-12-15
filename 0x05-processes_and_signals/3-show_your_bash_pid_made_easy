@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# doing week seven 
+pgrep -l bash
